@@ -3,7 +3,7 @@ jquery.trid
 
 Welcome to Jquery.trid, a Jquery plugin which automatically converts DOM elements into a 3D scene using CSS3 Transforms. Try dragging the example around. Then drag the example while holding CTRL. Trid is designed for simplicity and a small basic app footprint.
 
-[Live example](http://curvedinfinity.com/jquery.trid/example.html)
+[Live example](https://curvedinf.github.io/jquery.trid/)
 
 How to Use
 ----------
